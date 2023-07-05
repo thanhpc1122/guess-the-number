@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(165, 69, 255);
+    font-size:20px;
+    text-align: center;
+}
+#inputs{    
+   padding: 0.6em;
+}
+#buttons{
+    padding:0.6em;
+}
+#output{
+    color:red;
+}
+#reset{
+    padding:0.6em;
+}
